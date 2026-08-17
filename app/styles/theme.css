@@ -1,5 +1,5 @@
 :root {
-  --oui-font-family: 'Manrope', sans-serif;
+  --oui-font-family: system-ui, sans-serif;
   --oui-color-primary: 176 132 233;
   --oui-color-primary-light: 213 190 244;
   --oui-color-primary-darken: 137 76 209;
