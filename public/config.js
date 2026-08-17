@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_DEPLOYMENT_ENV": "mainnet",
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "deltapulse",
   "VITE_ORDERLY_BROKER_NAME": "DeltaPulse",
   "VITE_BROKER_EOA_ADDRESS": "0x2f57c95155d207b3544a7f912cb0d27bad56e3ad",
   "VITE_DISABLE_MAINNET": "false",
